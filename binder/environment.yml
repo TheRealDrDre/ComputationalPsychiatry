@@ -1,0 +1,10 @@
+name: comp-Opsych-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - pip
