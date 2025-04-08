@@ -9,6 +9,5 @@ dependencies:
   - sklearn
   - statsmodel
   - seaborn
-  - tqdm
   - matplotlib
   - pip
