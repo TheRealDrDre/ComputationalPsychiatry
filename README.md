@@ -1,2 +1,2 @@
-# ComputationalPsychiatry
-Code and Examples for the Computational Psychiatry Course
+# Computational Psychiatry
+Code and Examples for the POSYCH448C Computational Psychiatry Course
