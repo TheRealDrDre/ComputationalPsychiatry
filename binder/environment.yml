@@ -7,7 +7,8 @@ dependencies:
   - scipy
   - pandas
   - sklearn
-  - statsmodel
   - seaborn
   - matplotlib
   - pip
+  - pip:
+    - statsmodel
