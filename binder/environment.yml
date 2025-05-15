@@ -9,6 +9,7 @@ dependencies:
   - scikit-learn
   - seaborn
   - matplotlib
+  - tensorflow
   - pip
   - pip:
     - statsmodels
